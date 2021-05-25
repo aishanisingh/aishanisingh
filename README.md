@@ -18,5 +18,6 @@
 <img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro" width="600" height="400" />
 
 
+<h3>⇢ github stats: (lol)</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishanisingh&show_icons=true&locale=en" alt="aishanisingh" /></p>
 
