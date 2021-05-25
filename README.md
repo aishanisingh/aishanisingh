@@ -5,7 +5,7 @@
   </ul>
 
 <a href="www.google.com">
-  <img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF">
+  <img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF" class = "center">
 </a>
 
 
