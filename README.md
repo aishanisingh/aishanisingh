@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm Aishani Singh!</h1>
-<h3 align="center">I like to make the computer obey my every whim and command /j</h3>
+<h1 align = "center">hi, i'm aishani!</h1>
+<h3 align="center">i like to make the computer obey my every whim and command /j</h3>
+<ul>
+  <li> you can take a look at some of my projects here: https://github.com/aishanisingh?tab=repositories</li>
+  </ul>
+
+<a href="www.google.com">
+  <img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF">
+</a>
 
 
 
