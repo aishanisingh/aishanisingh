@@ -5,7 +5,7 @@
   </ul>
 
 <p class="aligncenter">
-    <img src="https://i.pinimg.com/originals/9d/54/d5/9d54d5af2b3e1ac799c2e9ecf0549bc6.jpg" alt="Totoro" />
+    <img src="https://i.pinimg.com/originals/9d/54/d5/9d54d5af2b3e1ac799c2e9ecf0549bc6.jpg" alt="Totoro" width="600" height="400" />
 </p>
 
 
