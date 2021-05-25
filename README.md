@@ -4,9 +4,9 @@
   <li> you can take a look at some of my projects here: https://github.com/aishanisingh?tab=repositories</li>
   </ul>
 
-<a href="www.google.com">
-  <p style="text-align:center;"><img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF" class = "center"></p>
-</a>
+
+<p style="text-align:center;"><img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF" class = "center"></p>
+
 
 
 
