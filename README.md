@@ -5,7 +5,7 @@
   </ul>
 
 
-<p style="text-align:center;"><img src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF" class = "center"></p>
+<img align="center" src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro GIF"></p>
 
 
 
