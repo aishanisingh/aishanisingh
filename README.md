@@ -5,7 +5,7 @@
   </ul>
 
 
-<a href="https://www.amazon.com" target="blank"><img align="center" src="https://thumbs.gfycat.com/AccomplishedFriendlyDunnart-max-1mb.gif" alt="Totoro"/></a>
+<a href="https://www.amazon.com" target="blank"><img align="center" src="https://i.pinimg.com/originals/9d/54/d5/9d54d5af2b3e1ac799c2e9ecf0549bc6.jpg" alt="Totoro"/></a>
 
 
 
