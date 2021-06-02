@@ -9,17 +9,6 @@
   </ul>
   
 
-
-<h3>projects:</h3>
-<ul>
-  <li>working on a personal website made from javascript </li>
-  <li>in progress of utilizing next.js for multiple projects </li>
-  <li>creating a discord bot with the discord.py library</li>
-  <li> trying to learn java even though i cannot java</li>
-  </ul>
-    
-
-
 <h3>github stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishanisingh&show_icons=true&locale=en" alt="aishanisingh" /></p>
 
