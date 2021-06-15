@@ -5,7 +5,8 @@
 <ul>
   <li>i'm 13 </li>
   <li>you can take a look at some of my projects here: https://github.com/aishanisingh?tab=repositories</li>
-  <li>kinda consider myself at the intermediate level</li>
+  <li>kinda consider myself at the beginner / intermediate level</li>
+  <li>languages: python, html and swift, currently trying to learn java and c++<li>
   </ul>
   
 
