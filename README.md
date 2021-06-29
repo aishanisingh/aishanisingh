@@ -13,3 +13,7 @@
 <h3>github stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishanisingh&show_icons=true&locale=en" alt="aishanisingh" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishanisingh&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" /></p>
+
+
+
