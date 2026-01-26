@@ -1,2 +1,2 @@
 # aishani singh
-Hi! I'm a freshman at Carnegie Mellon University. Some of my particular interests lie in computer science, mathematics, and machine learning. 
+hi! i'm a freshman at carnegie mellon university studying computer science. some of my particular interests lie in robotics, mathematics, and artificial intelligence. 
