@@ -1,3 +1,2 @@
 # aishani singh
-Hi! I'm a high school senior who's interested in mostly STEM subjects, and occasionally writing.
-
+Hi! I'm a freshman at Carnegie Mellon University. Some of my particular interests lie in computer science, mathematics, and machine learning. 
