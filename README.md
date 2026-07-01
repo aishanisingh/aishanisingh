@@ -41,17 +41,6 @@ first-author publication at **isca 2024** · research across **georgia tech**, *
 </details>
 
 <details open>
-<summary><strong>civys</strong> · founder & ceo · nov 2025 -present</summary>
-
-> founded civys, an ai platform that turns dense legal and policy text into structured, audit-ready briefs for compliance teams, city attorneys, and local government staff. built the llm agent pipeline end-to-end (document classification, citation tracing, structured output validation) and shipped it into a live pilot with a state senator's office. ranked top 10% of y combinator spring 2026 applications, backed by cmu's swartz center.
-
-</details>
-
----
-
-## research
-
-<details open>
 <summary><strong>carnegie mellon university · auton lab, robotics institute</strong> · jan 2026 -present</summary>
 
 > research assistant and technical point-of-contact for the airlab vision-language model team, benchmarking model architectures on masking, video understanding, and multimodal reasoning for the **darpa triage challenge**. building bayesian network models for probabilistic reasoning research, and designing no-code annotation interfaces that let medics give structured feedback to medical ai without writing code.
@@ -110,16 +99,6 @@ first-author publication at **isca 2024** · research across **georgia tech**, *
 </p>
 
 <div align="center"><sub>llm agents · rag pipelines · fine-tuning · vector retrieval · model evaluation · on-device inference · bayesian networks</sub></div>
-
----
-
-## honors & awards
-
-- **y combinator ai startup school**, selected attendee (2026)
-- **swartz center for entrepreneurship** selected founder, cmu (2026)
-- **first-author publication**, evga workshop at isca 2024; co-author on arxiv paper on diffusion-model unlearning (uc berkeley pallas lab, 2023)
-- **aime qualifier**, amc 12, top 5% nationally (2024); **usaco silver division** (2023)
-- **synopsys championship**: robby beyers grand prize & most promising young scientist (2023); 1st place physical science & engineering (2022); csef finalist (2022)
 
 ---
 
